@@ -6,5 +6,3 @@ Personal collection of userscripts (I use Tampermonkey)
   - You need to edit the passcode & name. 
   - Every time, click "Full Name" text area before clicking "Join Event". (Of course, this is not really convenient and there must exist a room for improvement here; I'm not an expert on web programming things, so any suggestion/PRs would be highly appreciated.)
 
-![](./thumbnails/slido_thumbnail.gif)
-
