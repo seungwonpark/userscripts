@@ -14,10 +14,10 @@
     'use strict';
     window.addEventListener('load', function() {
         setTimeout(function(){
-            document.getElementsByName('password')[0].value = 'ClassPassword';
-            document.getElementsByName('name')[0].value = 'Your Name';
+            document.getElementsByName('password')[0].value = 'ClassPassword'; // EDIT ME - DO NOT share class passwords publicly!
+            document.getElementsByName('name')[0].value = 'Your Name'; // EDIT ME
             document.getElementsByClassName('MuiIconButton-label')[0].click();
             //document.getElementsByName("btn_primary")[0].click(); // not working for now
-        }, 1000);
+        }, 1000); // you may need to adjust this value
     }, false);
 })();
